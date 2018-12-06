@@ -8,5 +8,7 @@
 		<input type="text" name="nom" />
 		<input type="submit" name="OK" />
 	</form>
+	
+	<p>Je me demande si je peux ajouter un paragraphe...</p>
 </body>
 </html>
