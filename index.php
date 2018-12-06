@@ -10,5 +10,8 @@
 	</form>
 	
 	<p>Je me demande si je peux ajouter un paragraphe...</p>
+	<?php
+		require('footer.php');
+	?>
 </body>
 </html>
