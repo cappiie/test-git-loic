@@ -3,7 +3,9 @@
 	<link href="styles/stylesheets/screen.css" rel="stylesheet">
 <head>
 <body>
-	Hello World
+	<?php
+		require('header.php');
+	?>
 	<form method="post" action="">
 		<input type="text" name="nom" />
 		<input type="submit" name="OK" />
